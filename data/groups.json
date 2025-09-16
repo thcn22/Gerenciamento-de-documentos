@@ -1,0 +1,24 @@
+[
+  {
+    "id": "group-1758029465246-xmiu7p",
+    "name": "P&D",
+    "members": [
+      "user-1755872616104-qsh4zj5ty",
+      "user-1756467851236-gwru5a5fb",
+      "user-1755792476734-shpjosq1a",
+      "user-1756493126838-bcfx5012z",
+      "user-1758046577885-gc5xwm69p"
+    ],
+    "createdAt": "2025-09-16T13:31:05.246Z"
+  },
+  {
+    "id": "group-1758029484767-sd6rr4",
+    "name": "TESTE",
+    "members": [
+      "admin-1754566579920",
+      "admin-1755887373568",
+      "admin-1755887513190"
+    ],
+    "createdAt": "2025-09-16T13:31:24.767Z"
+  }
+]

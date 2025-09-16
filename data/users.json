@@ -1,0 +1,81 @@
+[
+  {
+    "id": "admin-1754566579920",
+    "email": "admin@gerenciador.com",
+    "password": "$2b$10$A836bsSXGFuBNSfklvsCXO.Qs4/r0vY.TAztwWMCllgSEwn7q6cKW",
+    "name": "Administrador",
+    "isAdmin": false,
+    "createdAt": "2025-08-07T11:36:19.920Z",
+    "isActive": true,
+    "lastLogin": "2025-09-16T18:16:49.204Z",
+    "avatar": "/data/avatars/admin@gerenciador.com-avatar.png",
+    "role": "approver"
+  },
+  {
+    "id": "user-1755792476734-shpjosq1a",
+    "email": "thalysgithub@gmail.com",
+    "password": "$2b$10$dvG7armRWFR4IOOkI2Gz2eIgDfDX1pMrSbfUfQ7Li.hXNNs2P2bVi",
+    "name": "thalys silva",
+    "isAdmin": true,
+    "createdAt": "2025-08-21T16:07:56.734Z",
+    "isActive": true,
+    "lastLogin": "2025-09-16T14:41:19.047Z",
+    "role": "admin"
+  },
+  {
+    "id": "user-1755872616104-qsh4zj5ty",
+    "email": "jessica.franca@venosan.com.br",
+    "password": "$2b$10$BpdxnimAKw/u4S9VC4QfdeqNfnMB8AL1jUtw2mon0evvpAttsGFdK",
+    "name": "Jessica França",
+    "isAdmin": false,
+    "role": "reader",
+    "createdAt": "2025-08-22T14:23:36.104Z",
+    "isActive": true,
+    "lastLogin": "2025-09-16T14:31:43.952Z"
+  },
+  {
+    "id": "admin-1755887513190",
+    "email": "admin@docmanager.com",
+    "password": "$2b$10$9t.QHVwim9W1TaGSeWO5UOmeyKDrrQhYv41E91cIeFGFajoPm45Sm",
+    "name": "Administrador",
+    "isAdmin": true,
+    "role": "admin",
+    "createdAt": "2025-08-22T18:31:53.190Z",
+    "isActive": true,
+    "lastLogin": "2025-08-29T17:52:37.654Z"
+  },
+  {
+    "id": "user-1756467851236-gwru5a5fb",
+    "email": "thalys.silva@venosan.com.br",
+    "password": "$2b$10$DBmWBnbEBHEQkMy1XUyAUOL14QhaSv06j3BRrWPY.cCU1JOFePP92",
+    "name": "thalys silva",
+    "isAdmin": true,
+    "role": "admin",
+    "createdAt": "2025-08-29T11:44:11.236Z",
+    "isActive": true,
+    "lastLogin": "2025-09-16T19:08:03.327Z"
+  },
+  {
+    "id": "user-1756493126838-bcfx5012z",
+    "email": "hugo.melo@venosan.com.br",
+    "password": "$2b$10$llfcbRrXCeFfLxcYQN.xuuS7sZ0jiS5HkZIuuboRxsQZZJYSKPucC",
+    "name": "Hugo melo",
+    "isAdmin": false,
+    "role": "approver",
+    "createdAt": "2025-08-29T18:45:26.838Z",
+    "isActive": true,
+    "lastLogin": "2025-08-29T18:47:12.185Z"
+  },
+  {
+    "id": "user-1758046577885-gc5xwm69p",
+    "email": "wallison.nascimento@venosan.com.br",
+    "password": "$2b$10$muSEcMyf3kKgOwccQ39/GOvu96w..JDcWjHIOFVuKaxj1t3ZvSNZu",
+    "name": "Wallison Nascimento",
+    "isAdmin": false,
+    "group": "operacoes",
+    "role": "approver",
+    "createdAt": "2025-09-16T18:16:17.890Z",
+    "isActive": true,
+    "lastLogin": "2025-09-16T18:19:18.285Z"
+  }
+]
