@@ -1,6 +1,11 @@
 {
   "name": "fusion-starter",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thcn22/Gerenciamento-de-documentos.git"
+  },
+  "homepage": "https://github.com/thcn22/Gerenciamento-de-documentos",
   "type": "module",
   "pkg": {
     "assets": [
